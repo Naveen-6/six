@@ -37,7 +37,8 @@ Unordered list
 
 
 
-**To insert a table**
+**To insert a tables**
+
 |Name|Branch|RollNo|
 |------|-------|------|
 |ram|cse|1|
